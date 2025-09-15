@@ -11,4 +11,6 @@ getCart["getCart()"]
 getCartIndex["getCartIndex()"]
 addHistory["addHistory()"]
 getHistory["getHistory()"]
+
+start-->addToCart-->resetCart-->getCart-->getCartIndex-->addHistory-->getHistory-->stop
 ```
